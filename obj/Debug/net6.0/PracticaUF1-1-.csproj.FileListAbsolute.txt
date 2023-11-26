@@ -1,0 +1,15 @@
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/PracticaUF1-1-
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/PracticaUF1-1-.deps.json
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/PracticaUF1-1-.runtimeconfig.json
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/PracticaUF1-1-.dll
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/PracticaUF1-1-.pdb
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.csproj.AssemblyReference.cache
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.AssemblyInfoInputs.cache
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.AssemblyInfo.cs
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.csproj.CoreCompileInputs.cache
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.dll
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/refint/PracticaUF1-1-.dll
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.pdb
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/PracticaUF1-1-.genruntimeconfig.cache
+/Users/pro/tarea17/PracticaUF1-1-/obj/Debug/net6.0/ref/PracticaUF1-1-.dll

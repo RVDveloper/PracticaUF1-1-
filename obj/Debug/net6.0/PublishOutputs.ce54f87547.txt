@@ -1,0 +1,5 @@
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/publish/PracticaUF1-1-
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/publish/PracticaUF1-1-.dll
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/publish/PracticaUF1-1-.deps.json
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/publish/PracticaUF1-1-.runtimeconfig.json
+/Users/pro/tarea17/PracticaUF1-1-/bin/Debug/net6.0/publish/PracticaUF1-1-.pdb
